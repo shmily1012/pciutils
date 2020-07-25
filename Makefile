@@ -19,7 +19,7 @@ ZLIB=
 DNS=
 
 # Build libpci as a shared library (yes/no; or local for testing; requires GCC)
-SHARED=no
+SHARED=yes
 
 # Use libkmod to resolve kernel modules on Linux (yes/no, default: detect)
 LIBKMOD=
